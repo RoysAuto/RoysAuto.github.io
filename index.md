@@ -15,8 +15,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 # Shop Our Used Car Inventory <br/>
 # [For Sale](https://www.roysautosale.com/cars-for-sale) <br/>
