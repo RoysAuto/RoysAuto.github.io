@@ -6,12 +6,12 @@
 
 <br/>
 <br/>
-### Check Out Website
+#### Check Out Website
 # [RoysAutoSale.com](https://roysautosale.com)
 <br/>
 <br/>
-### Used Car Inventory
-Quality used cars for sale 
+### Shop Our Used Car Inventory <br/>
+Quality used cars for sale! Great deals on reliable cars!
 <br/>
 <br/>
 
