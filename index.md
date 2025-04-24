@@ -12,7 +12,8 @@
 <br/>
 
 ### Shop Our Used Car Inventory <br/>
-Quality used cars for sale! Great deals on reliable cars! <br/>
+# [For Sale](https://www.roysautosale.com/cars-for-sale)
+Quality used cars for sale! Great deals on reliable vehicles! <br/>
 <br/>
 <br/>
 
