@@ -8,8 +8,8 @@
 <br/>
 <br/>
 <br/>
-# &nbsp; &nbsp; &nbsp; Check Out Website <br/>
-# &nbsp; &nbsp; &nbsp; [RoysAutoSale.com](https://roysautosale.com) <br/>
+# Check Out Website <br/>
+# [RoysAutoSale.com](https://roysautosale.com) <br/>
 <br/>
 <br/>
 <br/>
