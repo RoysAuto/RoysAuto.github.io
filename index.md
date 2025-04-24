@@ -1,6 +1,6 @@
 ## Roy's Auto
 
-<img src="SiteFiles/LandingPage.png" align="left" width=450>&nbsp;Car Repairs and Sales <br/>
+<img src="SiteFiles/LandingPage.png" align="left" width=12000>&nbsp;Car Repairs and Sales <br/>
 &nbsp; Roys's Auto Sales & Service LLC <br/>
 &nbsp; &nbsp; [Roysautosale.com](https://roysautosale.com)
 &nbsp; &nbsp; 
