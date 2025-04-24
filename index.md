@@ -6,7 +6,7 @@
 
 <br/>
 <br/>
-
+<img src="SiteFiles/Logo.png" align="Right" width=250>&nbsp; <br/>
 # Check Out Website <br/>
 # [RoysAutoSale.com](https://roysautosale.com) <br/>
 <br/>
