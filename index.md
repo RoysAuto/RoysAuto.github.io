@@ -22,8 +22,8 @@
 <br/>
 
 # Follow Us On Our Socials! <br/>
-# [Facebook](https://www.facebook.com/profile.php?id=100063744632969) <br/>
+# [Facebook](https://www.facebook.com/profile.php?id=100063744632969) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Instagram](https://www.instagram.com/roysautosalesandservice/) <br/>
+<br/>
+<img src="SiteFiles/fb.png" align="left" width=250> <img src="SiteFiles/IG.png" align="left" width=240>
 <br/>
 
-# [Instagram](https://www.instagram.com/roysautosalesandservice/) <br/>
-<br/>
