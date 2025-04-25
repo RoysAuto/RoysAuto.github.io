@@ -4,12 +4,12 @@
 # &nbsp; &nbsp; &nbsp; 153 Ferry St. Hudson, NH 03051 <br/>
 # &nbsp; &nbsp; &nbsp; (603) 880-1777
 
-<img src="SiteFiles/Logo.png" align="center" width=250> <br/>
 <br/>
 <br/>
 <br/>
 # Check Out Website <br/>
 # [RoysAutoSale.com](https://roysautosale.com) <br/>
+<img src="SiteFiles/Logo.png" align="center" width=250> <br/>
 <br/>
 <br/>
 <br/>
@@ -24,6 +24,10 @@
 # Follow Us On Our Socials! <br/>
 # [Facebook](https://www.facebook.com/profile.php?id=100063744632969) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Instagram](https://www.instagram.com/roysautosalesandservice/) <br/>
 <br/>
-<img src="SiteFiles/fb.png" align="left" width=250> <img src="SiteFiles/IG.png" align="left" width=240>
+<img src="SiteFiles/fb.png" align="left" width=250> <img src="SiteFiles/IG.png" align="left" width=250> <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
