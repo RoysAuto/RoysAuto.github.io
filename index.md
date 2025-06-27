@@ -29,5 +29,5 @@
 <br/>
 <br/>
 # Hours <br/>
-#### Monday - Friday 
+#### Monday - Friday <br/>
 #### 8am - 5 pm
