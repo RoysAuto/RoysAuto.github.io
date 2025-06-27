@@ -1,6 +1,6 @@
 
 <img src="SiteFiles/LandingPage.png" align="left" width=12000>&nbsp; <br/>
- Roys's Auto Sales & Service LLC
+# Roys's Auto Sales & Service LLC
 ### 153 Ferry St. Hudson, NH 03051
 ### (603) 880-1777
 <br/>
