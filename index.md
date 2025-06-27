@@ -28,3 +28,6 @@
 <br/>
 <br/>
 <br/>
+# Hours <br/>
+#### Monday - Friday 
+#### 8am - 5 pm
